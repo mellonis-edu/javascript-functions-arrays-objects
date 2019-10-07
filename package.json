@@ -1,5 +1,5 @@
 {
-  "name": "02-bind",
+  "name": "javascript-functions-arrays-objects",
   "version": "1.0.0",
   "description": "js bind method",
   "main": "assignment.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mellonis-edu/02-bind.git"
+    "url": "git+https://github.com/mellonis-edu/javascript-functions-arrays-objects.git"
   },
   "author": "Ruslan Gilmullin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mellonis-edu/02-bind/issues"
+    "url": "https://github.com/mellonis-edu/javascript-functions-arrays-objects/issues"
   },
-  "homepage": "https://github.com/mellonis-edu/02-bind#readme",
+  "homepage": "https://github.com/mellonis-edu/javascript-functions-arrays-objects#readme",
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
