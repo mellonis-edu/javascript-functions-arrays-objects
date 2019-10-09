@@ -37,7 +37,7 @@ import {
 // ...
 
 /*
-  Определите функцию, которая принимает два аргумента типа Human.
+  Определите функцию third, которая принимает два аргумента типа Human.
   У первого объекта есть метод sayName, у второго его нет.
   Добавьте второму объекту метод sayName.
 
@@ -61,7 +61,7 @@ import {
 // ...
 
 /*
-  Определите функцию, которая принимает два аргумента типа Human.
+  Определите функцию fourth, которая принимает два аргумента типа Human.
   У первого объекта есть метод sayName, у второго его нет.
   Добавьте второму объекту метод sayName, но так, чтобы он возвращал
   имя первого человека.
@@ -74,7 +74,7 @@ import {
   human1.sayName instanceof Function; // true
   human2.sayName instanceof Function; // false
 
-  third(human1, human2);
+  fourth(human1, human2);
 
   human1.sayName instanceof Function; // true
   human2.sayName instanceof Function; // true
